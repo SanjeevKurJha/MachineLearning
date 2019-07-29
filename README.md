@@ -7,7 +7,7 @@
 <li><a href="http://mlaileader.com/post/anova" target='_blank'>Anova</a></li>
 <li><a href="#" target='_blank'>Linear Regression</a></li>
 <li><a href="#" target='_blank'>Logistics Regression</a></li>
-
+<br />
 <b><a href="http://mlaileader.com/category/machine-learning/1" target='_blank'>Machine Learning</a></b>
 
 <li><a href="http://mlaileader.com/post/support-vector-machines" target='_blank'>Support Vector Machines</a></li>
