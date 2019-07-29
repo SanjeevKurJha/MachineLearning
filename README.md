@@ -1,4 +1,4 @@
-<b><a href="http://mlaileader.com/category/statistics-model/9" color='green' target='_blank'>Basic Statistics for Machine Learning</a></b>
+<b><a href="http://mlaileader.com/category/statistics-model/9", color='green', target='_blank'>Basic Statistics for Machine Learning</a></b>
 <br />
 <li><a href="http://mlaileader.com/post/-introduction-of-statistics-model" target='_blank'>Introduction Of Statistics Model</a></li>
 <li><a href="http://mlaileader.com/post/normal-distribution" target='_blank'>Normal Distribution</a></li>
