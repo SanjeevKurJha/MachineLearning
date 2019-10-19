@@ -16,4 +16,6 @@
 <li><a href="http://mlaileader.com/post/decision-tree" target='_blank'>Decision Tree</a></li>
 <li><a href="http://mlaileader.com/post/principal-component-analysis" target='_blank'>Principal Component Analysis</a></li>
 <li><a href="http://mlaileader.com/post/unsupervised-learning" target='_blank'>Unsupervised Learning</a></li>
+<li><a href="http://mlaileader.com/post/time-series-analysis" target='_blank'>Time Series</a></li>
+
 
