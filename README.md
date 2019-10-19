@@ -5,7 +5,7 @@
 <li><a href="http://mlaileader.com/post/hypothesis-testing-in-statistics" target='_blank'>Hypothesis Testing</a></li>
 <li><a href="http://mlaileader.com/post/chi-square" target='_blank'>Chi-Square</a></li>
 <li><a href="http://mlaileader.com/post/anova" target='_blank'>Anova</a></li>
-<li><a href="#" target='_blank'>Linear Regression</a></li>
+<li><a href="http://mlaileader.com/post/linear-regression" target='_blank'>Linear Regression</a></li>
 <li><a href="#" target='_blank'>Logistics Regression</a></li>
 <br />
 
