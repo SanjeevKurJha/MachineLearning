@@ -9,7 +9,7 @@
 <li><a href="#" target='_blank'>Logistics Regression</a></li>
 <br />
 
-<b><a href="http://mlaileader.com/category/machine-learning/1" target='_blank'>Machine Learning</a></b>
+<b><a href="http://mlaileader.com/post/machine-learning" target='_blank'>Machine Learning</a></b>
 <br />
 
 <li><a href="http://mlaileader.com/post/support-vector-machines" target='_blank'>Support Vector Machines</a></li>
